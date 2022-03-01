@@ -14,3 +14,5 @@ Python code get sensor info and insert it in the tensor model so it could predic
 Robot received and obbeyed the command
 
 As it was just a learning project any sugestion or contribution would be appreciated 
+
+Some videos on the "Other" folder
