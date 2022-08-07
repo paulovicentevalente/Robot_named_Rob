@@ -1,7 +1,7 @@
 # Robot_named_Rob
 Study on python/arduino/tensor-flow
 Project came from an idea of probing AI in a visual manner
-Used a initial robot set wich was integrated 3 mores sensors and a bluetooth interface
+Used a initial robot set wich was integrated 3 more sensors and a bluetooth interface
 So, robot had 4 distance sensors to detect frontal, lateral and rear distances and a bluetooth interface to send and receive data or moviment commands
 There is a initial python and arduino set of codes that were used to pilot the robot using computer
 It was logged at this phase the command (move forward, backward, turn right or left) and change on environment based on change on sensors measures previous and after command
