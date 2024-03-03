@@ -5,6 +5,6 @@ In the project's initial phase, a set of Python and Arduino codes were used to c
 Moving on to the second phase, code was created in Python that, using the TensorFlow library, created an autonomous piloting model that responded to information received via Bluetooth from the sensors that operated on the robot.
 At the end of the project, the robot responded to commands received from the computer's Python code, generated autonomously. The project has been completed.
 
-As it was just a learning project any sugestion or contribution would be appreciated.
+As it was just a learning project any suggestion or contribution would be appreciated.
 
-Some videos on the "Other" folder.
+Some videos are in the "Other" folder.
